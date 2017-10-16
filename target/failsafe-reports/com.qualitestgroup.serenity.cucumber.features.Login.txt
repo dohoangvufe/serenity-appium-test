@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.qualitestgroup.serenity.cucumber.features.Login
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 176.472 s - in com.qualitestgroup.serenity.cucumber.features.Login
